@@ -1,0 +1,4 @@
+modname:enderstorage
+
+block:id=%ender_storage,data=0,stdrot=true
+block:id=%ender_storage,data=1,stdrot=true

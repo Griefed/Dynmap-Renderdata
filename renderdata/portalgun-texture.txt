@@ -1,0 +1,4 @@
+modname:portalgun
+
+block:id=%block_portal,data=1,stdrot=true
+block:id=%block_portal,data=0,stdrot=true

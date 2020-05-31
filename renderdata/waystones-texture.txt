@@ -1,0 +1,10 @@
+modname:waystones
+
+block:id=%waystone,data=10,stdrot=true
+block:id=%waystone,data=11,stdrot=true
+block:id=%waystone,data=12,stdrot=true
+block:id=%waystone,data=13,stdrot=true
+block:id=%waystone,data=2,stdrot=true
+block:id=%waystone,data=3,stdrot=true
+block:id=%waystone,data=4,stdrot=true
+block:id=%waystone,data=5,stdrot=true

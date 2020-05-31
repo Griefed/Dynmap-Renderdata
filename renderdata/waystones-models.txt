@@ -1,0 +1,10 @@
+modname:waystones
+
+patchblock:id=%waystone,data=10
+patchblock:id=%waystone,data=11
+patchblock:id=%waystone,data=12
+patchblock:id=%waystone,data=13
+patchblock:id=%waystone,data=2
+patchblock:id=%waystone,data=3
+patchblock:id=%waystone,data=4
+patchblock:id=%waystone,data=5

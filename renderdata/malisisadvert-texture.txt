@@ -1,0 +1,14 @@
+modname:malisisadvert
+
+block:id=%advertblock,data=8,stdrot=true
+block:id=%advertblock,data=0,stdrot=true
+block:id=%advertblock,data=9,stdrot=true
+block:id=%advertblock,data=1,stdrot=true
+block:id=%advertblock,data=10,stdrot=true
+block:id=%advertblock,data=2,stdrot=true
+block:id=%advertblock,data=11,stdrot=true
+block:id=%advertblock,data=3,stdrot=true
+block:id=%advertblock,data=12,stdrot=true
+block:id=%advertblock,data=4,stdrot=true
+block:id=%advertblock,data=13,stdrot=true
+block:id=%advertblock,data=5,stdrot=true

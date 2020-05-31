@@ -1,0 +1,4 @@
+modname:portalgun
+
+patchblock:id=%block_portal,data=1
+patchblock:id=%block_portal,data=0

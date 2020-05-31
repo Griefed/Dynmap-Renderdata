@@ -1,0 +1,8 @@
+modname:csb_ench_table
+
+texture:id=txt0001,filename=assets/csb_ench_table/textures/blocks/ender_enchanting_table_top.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/csb_ench_table/textures/blocks/ender_enchanting_table_front.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/csb_ench_table/textures/blocks/ender_enchanting_table_bottom.png,xcount=1,ycount=1
+texture:id=txt0005,filename=assets/csb_ench_table/textures/blocks/ender_enchanting_table_side_right.png,xcount=1,ycount=1
+texture:id=txt0004,filename=assets/csb_ench_table/textures/blocks/ender_enchanting_table_side_left.png,xcount=1,ycount=1
+block:id=%ender_enchanting_table,data=0,patch0=0:txt0001,patch1=0:txt0002,patch2=0:txt0003,patch3=0:txt0003,patch4=0:txt0004,patch5=0:txt0005,stdrot=true

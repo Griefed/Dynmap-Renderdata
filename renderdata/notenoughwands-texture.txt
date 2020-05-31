@@ -1,0 +1,3 @@
+modname:notenoughwands
+
+block:id=%lightblock,data=0,stdrot=true

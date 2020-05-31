@@ -1,0 +1,14 @@
+modname:malisisadvert
+
+patchblock:id=%advertblock,data=8
+patchblock:id=%advertblock,data=0
+patchblock:id=%advertblock,data=9
+patchblock:id=%advertblock,data=1
+patchblock:id=%advertblock,data=10
+patchblock:id=%advertblock,data=2
+patchblock:id=%advertblock,data=11
+patchblock:id=%advertblock,data=3
+patchblock:id=%advertblock,data=12
+patchblock:id=%advertblock,data=4
+patchblock:id=%advertblock,data=13
+patchblock:id=%advertblock,data=5

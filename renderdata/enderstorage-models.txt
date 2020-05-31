@@ -1,0 +1,4 @@
+modname:enderstorage
+
+patchblock:id=%ender_storage,data=0
+patchblock:id=%ender_storage,data=1
