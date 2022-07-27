@@ -1,12 +1,4 @@
 modname:thuttech
 
 texture:id=txt0001,filename=assets/thuttech/textures/blocks/lift.png,xcount=1,ycount=1
-texture:id=txt0002,filename=assets/thuttech/textures/blocks/liftcontroller.png,xcount=1,ycount=1
-block:id=%lift,data=12,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,stdrot=true
-block:id=%lift,data=13,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,stdrot=true
-block:id=%lift,data=4,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,stdrot=true
-block:id=%lift,data=5,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,stdrot=true
-block:id=%lift,data=8,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,stdrot=true
-block:id=%lift,data=9,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,stdrot=true
-block:id=%lift,data=0,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,stdrot=true
-block:id=%lift,data=1,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,stdrot=true
+block:id=%lift,data=0,data=1,data=4,data=5,data=8,data=9,data=12,data=13,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,stdrot=true
